@@ -1,4 +1,4 @@
-# tetrami
+# QUARMI
 
 A C++ **Swiss Army Knife** for medical imaging.
 
